@@ -147,7 +147,6 @@ export GOLANG_PROTOBUF_REGISTRATION_CONFLICT=warn
 #git filter-branch --index-filter "git rm -rf --cached --ignore-unmatch client" HEAD 
 export NODE_EXTRA_CA_CERTS=/home/sodsman/cert_Finbet_fproxy_cert.crt
 export NODE_OPTIONS=--use-openssl-ca
-export SONAR_TOKEN=squ_9a2d1bb5d0a54e10adc5786180313e69a35077da
 export LD_LIBRARY_PATH=/usr/lib/oracle/21/client64/lib
 export VAR66=77
 #kubectl get configmaps
